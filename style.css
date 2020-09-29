@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 5px;
+    
+}
+
+
+.content-container {
+    border: 2.5px solid black;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.content {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    padding: 15px;
+}
